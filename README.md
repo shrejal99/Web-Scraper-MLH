@@ -1,4 +1,8 @@
-# What is web scraping?
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84700316/137275855-5a0e300c-ecb5-425f-a892-b709f529c5a8.png"width=300px>
+  </p>
+
+<h1 align="center"> What is web scraping? </h1>
 
 Web scraping is the process of collecting structured web data in an automated fashion. It’s also called web data extraction. Some of the main use cases of web scraping include price monitoring, price intelligence, news monitoring, lead generation, and market research among many others.
 
