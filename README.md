@@ -91,4 +91,7 @@ Minimum advertised price (MAP) monitoring is the standard practice to make sure 
 
 
 # Contributors
-
+1. Shrejal Singh
+2. Ruthvik
+3. Aaquib Ali
+4. Ekta Arora
